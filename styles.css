@@ -50,14 +50,10 @@ label a:hover {
   border-radius: 10px;
   color: #fff1d9;
 }
-.contact-div{
-  text-align: center;
-  font-size: large;
-  background-color: red;
-}
+
 p{text-align: center;
 font-size: 64px;
-color: #643175;
+color: #9e0000;
 background-color: aqua;
 display: block;}
 @media (max-width: 768px) {
