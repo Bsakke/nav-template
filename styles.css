@@ -55,6 +55,11 @@ label a:hover {
   font-size: large;
   background-color: red;
 }
+p{text-align: center;
+font-size: 64px;
+color: #643175;
+background-color: aqua;
+display: block;}
 @media (max-width: 768px) {
   .nav li {
     display: none;
