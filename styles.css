@@ -17,20 +17,20 @@ body {
   align-items: center;
   justify-content: space-between;
 }
-.nav li {
+.nav ul{
   margin: 0 10%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.nav li ul {
+.nav ul li {
   margin: 0 15%;
 }
-.nav li ul a {
+.nav ul li a {
   padding: 1rem;
   color: wheat;
 }
-.nav li ul a:hover {
+.nav ul li a:hover {
   background-color: #643175;
   border-radius: 10px;
   color: #fff1d9;
